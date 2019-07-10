@@ -1,6 +1,6 @@
 # CycleGan
 This is a Pytorch Implementation for learning an image-to-image translation. The original paper is called [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf). Instead of using default generator network, we use two other network namely DnCNN and UNet. Detail structure can be found in this [paper](https://www.google.com). Some of our result is shown below:
-![alt text](CycleGan/img/result_Unet-2.png)
+![alt text](https://github.com/menglaili/ECE285Project/blob/master/CycleGan/img/result_Unet-2.png)
 
 
 
