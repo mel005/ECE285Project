@@ -11,7 +11,9 @@ Custom python module: image_tool.py, nntools.py
 Code organization
 =================
 model.py         ---The net which is just the model downloaded from Internet
+
 DnCNNmodel.py    ---The net with DnCNN as generator
+
 Unetmodel.py     ---The net with Unet as generator
 dataset.py       ---The .py file help to load the image
 Imagepool.py    ---The .py file which buffer the images(downloaded from Internet)
