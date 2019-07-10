@@ -1,5 +1,5 @@
 # CycleGan
-Pytorch Implementation for learning an image-to-image translation. Instead of using default generator network, we use two other network namely DnCNN and U-Net. Detail structure can be found in this [paper](https://www.google.com).
+This is a Pytorch Implementation for learning an image-to-image translation. Instead of using default generator network, we use two other network namely DnCNN and U-Net. Detail structure can be found in this [paper](https://www.google.com).
 
 
 Requirements
